@@ -8,6 +8,9 @@
 
 This [Nuxt.js] module automatically sends first page and route change events to [Chiffre Analytics]
 
+**THIS REPOSITORY IS NOW ARCHIVED.**
+**MAINTAINED REPOSITORY HAS BEEN TRANSFERRED TO CHIFFRE ORGANIZATION: https://github.com/chiffre-io/nuxt-chiffre**
+
 ## Setup
 
 Install with:
